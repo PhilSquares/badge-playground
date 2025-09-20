@@ -11,7 +11,7 @@ This repository was created for **educational purposes** to explore the GitHub p
 - Experiment with **GitHub Discussions** (Galaxy Brain).
 - Share a project publicly and earn **stars** (Starstruck).
 
-## 🗂 Repo Structure
+## 🗂 Repo Structure:
 - `lessons/` → Guides for different GitHub concepts.
 - `examples/` → Small example files used in Issues/PRs.
 - `CONTRIBUTING.md` → Instructions for anyone who wants to collaborate.

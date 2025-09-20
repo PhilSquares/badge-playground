@@ -1,7 +1,7 @@
 # 🎖 Badge Playground
 
 Welcome to **Badge Playground**!  
-This repository was created for **educational purposes** — to explore the GitHub platform, practice open source workflows, and earn GitHub Achievements along the way.  
+This repository was created for **educational purposes** to explore the GitHub platform, practice open source workflows, and earn GitHub Achievements along the way.  
 
 ## 📚 Learning Goals
 - Learn how to **open and close Issues** (Quickdraw).

@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
